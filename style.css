@@ -1,0 +1,57 @@
+.row1{
+    padding: 20px 0;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+.colmargin{
+    margin: 15px 0;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+.photo{
+    border: 1px solid black;
+}
+.colalign{
+    text-align: center;
+    margin: 15px 0;
+}
+i{
+    color: #FFDB58;
+}
+
+#cart i{
+    font-size: 21px;
+margin-right: 10px;
+}
+.discspan{
+    color: red;
+    font-size: 20px;
+}
+.descfont{
+    font-size: 22px;
+    margin-top: 10px;
+}
+.addbtn{
+    background-color: #FFDB58;
+padding: 8px 40px;
+border-radius: 23px;
+color: black;
+margin: 20px 0 0 0;
+}
+.buybtn{
+    background-color: orange;
+padding: 8px 48px;
+border-radius: 23px;
+color: black;
+margin: 60px 0;
+}
+input[type=text]{
+    width: 250px;
+    text-align: left;
+}
